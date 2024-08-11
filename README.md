@@ -1,2 +1,2 @@
 # SALARY-PREDICTION-PROJECT
-This project was meant to clean, explore and examine the correlations between salaries and other parameters such as individual's level of education, the fields, years of experience, majors, miles to downtown area and so on.
+This project aimed to clean, explore, and analyze data to uncover correlations between salaries and various factors, such as education level, field, years of experience, major, distance to downtown, and other relevant parameters.
